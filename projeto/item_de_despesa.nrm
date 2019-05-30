@@ -1,0 +1,3 @@
+descricao,valor,consumo,fk_fatura,fk_tipo_de_despesa,fk_localidade
+
+fk_fatura,fk_tipo_de_despesa,fk_localidade -> valor,consumo,descricao

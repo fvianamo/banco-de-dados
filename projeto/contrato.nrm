@@ -1,0 +1,3 @@
+idcontrato,data_inicio,data_vigencia,valor_total,fk_ugr,fk_fiscal
+
+idcontrato -> data_inicio,data_vigencia,valor_total,fk_ugr,fk_fiscal

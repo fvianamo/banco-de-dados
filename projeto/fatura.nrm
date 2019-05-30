@@ -1,0 +1,3 @@
+id_fatura,mes_referencia,fk_contrato
+
+id_fatura -> mes_referencia,fk_contrato

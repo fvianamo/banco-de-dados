@@ -1,0 +1,4 @@
+idugr,sigla,descricao
+
+idugr -> sigla,descricao
+sigla -> descricao,idugr
