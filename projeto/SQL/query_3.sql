@@ -1,6 +1,6 @@
 USE gest_contratos;
 
--- Valor quasto por UGR por mês
+-- Valor gasto por UGR por mês
 SELECT 
 	u.descricao AS UGR, 
 	f.mes_referencia, 
